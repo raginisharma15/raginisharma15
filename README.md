@@ -1,128 +1,107 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=120&section=header" />
+<!-- Terminal window dots -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" height="0" />
 
-```
-██████╗  █████╗  ██████╗ ██╗███╗   ██╗██╗    ███████╗██╗  ██╗ █████╗ ██████╗ ███╗   ███╗ █████╗
-██╔══██╗██╔══██╗██╔════╝ ██║████╗  ██║██║    ██╔════╝██║  ██║██╔══██╗██╔══██╗████╗ ████║██╔══██╗
-██████╔╝███████║██║  ███╗██║██╔██╗ ██║██║    ███████╗███████║███████║██████╔╝██╔████╔██║███████║
-██╔══██╗██╔══██║██║   ██║██║██║╚██╗██║██║    ╚════██║██╔══██║██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║
-██║  ██║██║  ██║╚██████╔╝██║██║ ╚████║██║    ███████║██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=050a0e&height=20&section=header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=%3E+Software+Developer+%2F+AI+%26+ML+Enthusiast;%3E+Building+intelligent+systems+with+FastAPI;%3E+Turning+data+into+decisions;%3E+Code+it.+Ship+it.+Improve+it.)](https://git.io/typing-svg)
+<!-- macOS dots -->
+<img src="https://img.shields.io/badge/%E2%97%8F-%20-ff5f57?style=flat-square&labelColor=ff5f57" />&nbsp;<img src="https://img.shields.io/badge/%E2%97%8F-%20-ffbd2e?style=flat-square&labelColor=ffbd2e" />&nbsp;<img src="https://img.shields.io/badge/%E2%97%8F-%20-28c840?style=flat-square&labelColor=28c840" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`~/ragini-sharma/README.md`
+
+<br/>
+
+<!-- Glowing name -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=52&pause=99999&color=00FF9D&center=true&vCenter=true&width=700&height=80&lines=RAGINI+SHARMA)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=99999&color=2a9b5a&center=true&vCenter=true&width=500&height=30&lines=SOFTWARE+DEVELOPER++++%2F++++AI%2BML+ENTHUSIAST)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
 ---
 
-## `$ cat whoami.py`
+```
+$ cat whoami.py
+```
 
 ```python
 class RaginiSharma:
     def __init__(self):
-        self.name      = "Ragini Sharma"
         self.role      = "Software Developer"
-        self.location  = "India 🇮🇳"
-        self.passion   = ["Artificial Intelligence", "Machine Learning", "Backend APIs"]
-        self.building  = "AI-powered applications with FastAPI + Python"
-        self.learning  = ["Deep Learning", "LLMs", "System Design"]
-        self.available = True  # open to collabs & opportunities
-
-    def say_hi(self):
-        return "Hey! Let's build something that actually matters. 🚀"
-
-me = RaginiSharma()
-print(me.say_hi())
+        self.loves     = ["AI", "ML", "APIs", "Clean Code"]
+        self.building  = "AI-powered systems with FastAPI"
+        self.motto     = "Code it. Ship it. Improve it."
+    def available_for(self):
+        return "collabs, projects & opportunities"
 ```
 
 ---
 
-## `$ ls -la tech_stack/`
-
-### ⬡ Languages
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF9D)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF9D)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00BFFF)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00BFFF)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFD700)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF4500)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1E90FF)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF9D)
-
-### ⬡ Frameworks & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF9D)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
-### ⬡ Databases
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00BFFF)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=python&logoColor=FFD700)
-
-### ⬡ AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![AI](https://img.shields.io/badge/AI_Enthusiast-000000?style=for-the-badge&logo=openai&logoColor=00FF9D)
-
-### ⬡ Tools & Design
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF4500)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF)
-![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00FF9D)
-
----
-
-## `$ ./github_stats.sh`
+```
+$ ls skills/
+```
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raginisharma15&show_icons=true&theme=merko&hide_border=true&bg_color=000000&title_color=00FF9D&icon_color=00FF9D&text_color=AAFFCC" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raginisharma15&layout=compact&theme=merko&hide_border=true&bg_color=000000&title_color=00FF9D&text_color=AAFFCC" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=raginisharma15&theme=dark&hide_border=true&background=000000&ring=00FF9D&fire=FFD700&currStreakLabel=00FF9D&sideLabels=00FF9D&dates=2a9b5a)](https://git.io/streak-stats)
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-0a1f12?style=for-the-badge&logo=python&logoColor=00FF9D&labelColor=0a1f12) | ![JavaScript](https://img.shields.io/badge/JavaScript-0a1f12?style=for-the-badge&logo=javascript&logoColor=00FF9D&labelColor=0a1f12) | ![FastAPI](https://img.shields.io/badge/FastAPI-0a1f12?style=for-the-badge&logo=fastapi&logoColor=00FF9D&labelColor=0a1f12) | ![REST API](https://img.shields.io/badge/REST_API-0a1f12?style=for-the-badge&logo=postman&logoColor=00BFFF&labelColor=0a1f12) | ![HTML](https://img.shields.io/badge/HTML-0a1f12?style=for-the-badge&logo=html5&logoColor=00FF9D&labelColor=0a1f12) |
+| ![CSS](https://img.shields.io/badge/CSS-0a1f12?style=for-the-badge&logo=css3&logoColor=00FF9D&labelColor=0a1f12) | ![AI/ML](https://img.shields.io/badge/AI_%2F_ML-0a1f12?style=for-the-badge&logo=tensorflow&logoColor=FFD700&labelColor=0a1f12) | ![Java](https://img.shields.io/badge/Java-0a1f12?style=for-the-badge&logo=openjdk&logoColor=00FF9D&labelColor=0a1f12) | ![C/C++](https://img.shields.io/badge/C_%2F_C++-0a1f12?style=for-the-badge&logo=cplusplus&logoColor=00BFFF&labelColor=0a1f12) | ![SQL](https://img.shields.io/badge/SQL-0a1f12?style=for-the-badge&logo=postgresql&logoColor=00FF9D&labelColor=0a1f12) |
+| ![MySQL](https://img.shields.io/badge/MySQL-0a1f12?style=for-the-badge&logo=mysql&logoColor=00FF9D&labelColor=0a1f12) | ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0a1f12?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=0a1f12) | ![Canva](https://img.shields.io/badge/Canva-0a1f12?style=for-the-badge&logo=canva&logoColor=FFD700&labelColor=0a1f12) | ![Git](https://img.shields.io/badge/Git-0a1f12?style=for-the-badge&logo=git&logoColor=00FF9D&labelColor=0a1f12) | |
 
 </div>
 
 ---
 
-## `$ cat current_mission.json`
-
-```json
-{
-  "status"    : "ONLINE ✅",
-  "building"  : "AI-powered web apps with FastAPI backends",
-  "exploring" : "LLMs, Retrieval-Augmented Generation (RAG)",
-  "open_to"   : "Internships, collabs, open source projects",
-  "fun_fact"  : "I design in Canva and deploy in Python 🧠"
-}
 ```
-
----
-
-## `$ connect --all`
+$ cat stack_proficiency.log
+```
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=00FF9D)](https://github.com/raginisharma15)
-[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://linkedin.com/in/raginisharma15)
-[![Email](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=FF4500)](mailto:raginisharma15@gmail.com)
+| Skill | Proficiency |
+|:---|:---|
+| `Python` | ![90%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━░░░░░-90%25-00FF9D?style=flat-square&labelColor=0a1f12&color=00FF9D) |
+| `FastAPI` | ![82%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━░░░░░░░░░-82%25-00BFFF?style=flat-square&labelColor=0a1f12&color=00BFFF) |
+| `JavaScript` | ![75%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━░░░░░░░░░░░░-75%25-00FF9D?style=flat-square&labelColor=0a1f12&color=00FF9D) |
+| `SQL / MySQL` | ![78%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━░░░░░░░░░░░-78%25-00BFFF?style=flat-square&labelColor=0a1f12&color=00BFFF) |
+| `C / C++` | ![70%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━░░░░░░░░░░░░░░░-70%25-FFD700?style=flat-square&labelColor=0a1f12&color=FFD700) |
+| `AI / ML` | ![65%](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━░░░░░░░░░░░░░░░░░░-65%25-FFD700?style=flat-square&labelColor=0a1f12&color=FFD700) |
 
 </div>
 
 ---
 
+```
+$ ./github_stats.sh
+```
+
 <div align="center">
 
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=raginisharma15&show_icons=true&hide_border=true&bg_color=050a0e&title_color=00FF9D&icon_color=00FF9D&text_color=00cc7a&ring_color=00FF9D" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raginisharma15&layout=compact&hide_border=true&bg_color=050a0e&title_color=00FF9D&text_color=00cc7a" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=raginisharma15&theme=dark&hide_border=true&background=050a0e&ring=00FF9D&fire=FFD700&currStreakLabel=00FF9D&sideLabels=00FF9D&dates=2a9b5a)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 ```
-> "The best code is the one that solves real problems."
-> Building. Learning. Shipping. Repeat.
+$ connect --all
 ```
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=raginisharma15&style=for-the-badge&color=00FF9D&label=PROFILE+VIEWS)
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=100&section=footer" />
+[![GitHub](https://img.shields.io/badge/╱╱_github-0a1f12?style=for-the-badge&logo=github&logoColor=00FF9D)](https://github.com/raginisharma15)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/╱╱_linkedin-0a1f12?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://linkedin.com/in/raginisharma15)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/╱╱_email-0a1f12?style=for-the-badge&logo=gmail&logoColor=FF6B6B)](mailto:raginisharma15@gmail.com)
+
+<br/>
+
+`▮` &nbsp; **SYSTEM ONLINE · OPEN TO OPPORTUNITIES · BUILDING THE FUTURE** &nbsp; `▮`
+
+<br/>
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=raginisharma15&style=for-the-badge&color=00FF9D&label=PROFILE+VIEWS&abbreviated=true)
 
 </div>
